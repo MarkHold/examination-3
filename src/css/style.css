@@ -1,0 +1,19 @@
+#theBody {
+    background: antiquewhite;
+}
+.buttons {
+    text-align: center;
+}
+a{
+    padding: 5px;
+}
+
+.chatIcon{
+    width: 150px;
+    height: 100px;
+}
+
+.memoryIcon{
+    width: 150px;
+    height: 100px;
+}
